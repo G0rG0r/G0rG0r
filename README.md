@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm GorGor</h1>
 <h3 align="center">Passionate CyberSecurity Student of Taibah University</h3>
 <h3 align="center">I love doing ....</h3>
-<h3 align="center">👽 Malware Developer</h3>
+<h3 align="center">👽 Malware Development</h3>
 <h3 align="center">🖊️ Pentesting</h3>
 <h3 align="center">🛡️ SOC Applications Development</h3>
 <h3 align="center">💻 Systems Analyzing & Configurations</h3>
 <h3 align="center">⬆️ Systems Hardening</h3>
-<h3 align="center">🧮 Multi-Language Programmer</h3>
-<h3 align="center">🔌Embedded Systems Developer</h3>
+<h3 align="center">🧮 Multi-Language Programing</h3>
+<h3 align="center">🔌Embedded Systems Development</h3>
 <h3 align="center">🧠 Open-Source Intellegence</h3>
+<h3 align="center">🤙 feel free to ask me about anything !</h3>
 
 
 
