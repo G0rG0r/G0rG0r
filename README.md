@@ -1,4 +1,4 @@
-# ⚡ Terminal Access: GorGor@Taibah_University:~
+#  Terminal Access: GorGor@Taibah_University:~
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square" />
