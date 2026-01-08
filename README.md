@@ -14,14 +14,14 @@ $ whoami
 
 $ ls --skills /home/gorgor/interests
 total 8
-drwxr-xr-x  👽 Malware_Development
-drwxr-xr-x  🖊️ Pentesting
-drwxr-xr-x  🛡️ SOC_App_Dev
-drwxr-xr-x  💻 Sys_Analysis_&_Config
-drwxr-xr-x  ⬆️ Systems_Hardening
-drwxr-xr-x  🧮 Multi_Language_Programming
-drwxr-xr-x  🔌 Embedded_Systems
-drwxr-xr-x  🧠 OSINT
+drwxr-xr-x   Malware_Development
+drwxr-xr-x   Pentesting
+drwxr-xr-x   SOC_App_Dev
+drwxr-xr-x   Sys_Analysis_&_Config
+drwxr-xr-x   Systems_Hardening
+drwxr-xr-x   Multi_Language_Programming
+drwxr-xr-x   Embedded_Systems
+drwxr-xr-x   OSINT
 
 $ cat tech_stack.json
 {
